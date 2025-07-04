@@ -124,7 +124,7 @@ ads_click_prediction/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ads-click-prediction.git
+   git clone https://github.com/percy-o/ads-click-prediction.git
    cd ads-click-prediction
    ```
 
