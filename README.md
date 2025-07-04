@@ -165,7 +165,3 @@ ads_click_prediction/
 **Email:** [owoeyepercyolawale@gmail.com](mailto:owoeyepercyolawale@gmail.com)
 
 Feel free to star ⭐ this repo if you found it helpful!
-
----
-
-Let me know if you’d like this turned into a markdown file or customized further with deployment instructions or Jupyter notebook links.
