@@ -1,5 +1,5 @@
 
-# 🧠 Ads Click Prediction Using Machine Learning
+# Ads Click Prediction Using Machine Learning
 
 This project focuses on predicting whether a user will click on an online advertisement based on various behavioral and demographic features. The primary objective is to build a machine learning model that can accurately classify users into two categories: those who will click on an ad and those who will not.
 
