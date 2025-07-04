@@ -1,7 +1,3 @@
-# Ads-Click-Predicition
-Here is a detailed and well-structured **README.md** description for your GitHub repository based on the content of `ads_click_prediction.py`:
-
----
 
 # 🧠 Ads Click Prediction Using Machine Learning
 
