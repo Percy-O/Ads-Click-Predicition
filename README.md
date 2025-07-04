@@ -161,7 +161,7 @@ ads_click_prediction/
 ## 📬 Contact
 
 **Author:** Percy Owoeye
-**GitHub:** [@yourusername](https://github.com/percy-o)
+**GitHub:** [@Percy-O](https://github.com/percy-o)
 **Email:** [owoeyepercyolawale@gmail.com](mailto:owoeyepercyolawale@gmail.com)
 
 Feel free to star ⭐ this repo if you found it helpful!
